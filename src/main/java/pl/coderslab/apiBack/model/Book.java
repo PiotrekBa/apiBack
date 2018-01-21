@@ -17,6 +17,7 @@ public class Book {
 		this.publisher = publisher;
 		this.type = type;
 	}
+	
 
 	public Book() {
 	}
