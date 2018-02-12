@@ -6,7 +6,7 @@ Functionality:
  - save new book on server
  - delete book from server
  - edit book
- - return all books on server
+ - return all books from server
 
 Used technologies:
 - Java
